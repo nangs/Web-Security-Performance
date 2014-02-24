@@ -3,7 +3,6 @@
 *.sln
 
 # Build results
-[Bb]in/
 *_i.c
 *_p.c
 *.ilk

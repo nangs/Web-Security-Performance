@@ -1,0 +1,66 @@
+body {
+}
+#header_actual
+{
+    background-image: url(./Image/bg.gif);
+    background-repeat: repeat;
+	width:100%;
+	height:100px;
+}
+#header
+{
+	width:960px;
+	height:100px;
+	margin:0px auto;
+	}
+.logo
+{
+	width:160px;
+	height:100px;
+	float:left;
+}
+.head
+{
+    width:800px;
+	height:50px;
+	float:left;
+	margin-top:30px;
+}
+#nav_actual
+{
+	background-image: url(./Image/bgmenu.gif);
+    background-repeat: repeat-x;
+	width:100%;
+	height:50px;
+}
+#navigation
+{
+	width:960px;
+	height:50px;
+	margin:0px auto;
+}
+#navigation ul
+{
+	list-style-type:none;
+    margin:0px;
+}
+#navigation ul li
+{
+	float:left;
+	margin:15px;
+}
+#content
+{
+	width:960px;
+	/*height:500px;*/
+	margin:0px auto;
+}
+#footer
+{
+	clear:both;
+	width:960px;
+	height:50px;
+	margin:0px auto;
+    background-image: url(./Image/bg.gif);
+    background-repeat: repeat;
+}
